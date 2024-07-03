@@ -7,8 +7,12 @@ you can watch the video on bilibili, only Chinese version https://www.bilibili.c
 
 
 ![image](https://github.com/zanllp/pixiv_iib_plugin/assets/25872019/6394e5dd-3ce7-471d-a340-821450a65390)
+
+
 ![image](https://github.com/zanllp/pixiv_iib_plugin/assets/25872019/16404639-1f36-48b4-a7a9-4a15abd91d01)
 
+
+![image](https://github.com/xuejianxianzun/PixivBatchDownloader/assets/25872019/130c19e6-eb5d-4032-b2ba-79f34d937217)
 
 # how to use
 1. install the plugin / 安装插件
