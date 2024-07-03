@@ -1,9 +1,9 @@
 ﻿# pixiv_iib_plugin
  # Preview
 
-可以在bilibili习惯视频，只有中文版 https://www.bilibili.com/video/BV1qb421n7ih/?vd_source=768942431515ce6cf670f400b365a7e6
+可以在bilibili习惯视频，只有中文版 https://www.bilibili.com/video/BV1qb421n7ih/
 
-you can watch the video on bilibili, only Chinese version https://www.bilibili.com/video/BV1qb421n7ih/?vd_source=768942431515ce6cf670f400b365a7e6
+you can watch the video on bilibili, only Chinese version https://www.bilibili.com/video/BV1qb421n7ih/
 
 
 ![image](https://github.com/zanllp/pixiv_iib_plugin/assets/25872019/6394e5dd-3ce7-471d-a340-821450a65390)
