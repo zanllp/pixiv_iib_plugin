@@ -15,7 +15,7 @@ class Main:
         self.name = "Pixiv IIB Plugin"
         self.source_identifier = "PixivBatchDownloader"
         # These keys will be converted to tags in the corresponding meta, which you can see on the ImageSearch page
-        self.extra_convert_to_tag_meta_keys = ["AI", "Artist", "type", "Artist User Id"]
+        self.extra_convert_to_tag_meta_keys = ["AI", "Artist", "type", "Artist User Id", "XRestrict"]
         self.img_infos = {}
         self.dir_csv_reached_tree = PathTree()
 
