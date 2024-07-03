@@ -1,6 +1,7 @@
 ﻿# pixiv_iib_plugin
  # Preview
 ![image](https://github.com/zanllp/pixiv_iib_plugin/assets/25872019/6394e5dd-3ce7-471d-a340-821450a65390)
+![image](https://github.com/zanllp/pixiv_iib_plugin/assets/25872019/16404639-1f36-48b4-a7a9-4a15abd91d01)
 
 
 # how to use
