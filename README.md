@@ -1,5 +1,11 @@
 ﻿# pixiv_iib_plugin
  # Preview
+
+可以在bilibili习惯视频，只有中文版 https://www.bilibili.com/video/BV1qb421n7ih/?vd_source=768942431515ce6cf670f400b365a7e6
+
+you can watch the video on bilibili, only Chinese version https://www.bilibili.com/video/BV1qb421n7ih/?vd_source=768942431515ce6cf670f400b365a7e6
+
+
 ![image](https://github.com/zanllp/pixiv_iib_plugin/assets/25872019/6394e5dd-3ce7-471d-a340-821450a65390)
 ![image](https://github.com/zanllp/pixiv_iib_plugin/assets/25872019/16404639-1f36-48b4-a7a9-4a15abd91d01)
 
@@ -28,3 +34,10 @@ please make sure the folder contains the csv file exported by PixivBatchDownload
 ![image](https://github.com/zanllp/sd-webui-infinite-image-browsing/assets/25872019/01e9594e-977f-486b-a4db-720c4ca58a8a)
 
 <img width="532" alt="image" src="https://github.com/zanllp/pixiv_iib_plugin/assets/25872019/b3409a4e-ed83-473a-bae4-09109a145acc">
+
+
+# 已知的问题 Known issues
+
+在运行IIB期间向搜索路径内添加图片会导致IIB无法正常工作，这是因为IIB会在启动时读取所有的csv文件，如果在运行期间添加了新的图片，IIB无法感知到这些新的图片。如果需要添加新的图片，需要重启IIB
+
+Adding images to the search path during the operation of IIB will cause IIB to not work properly. This is because IIB reads all csv files when it starts. If new images are added during the operation, IIB cannot sense these new images. If you need to add new images, you need to restart IIB
