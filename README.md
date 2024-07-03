@@ -1,7 +1,7 @@
 ﻿# pixiv_iib_plugin
  # Preview
 
-可以在bilibili习惯视频，只有中文版 https://www.bilibili.com/video/BV1qb421n7ih/
+可以在bilibili看视频，只有中文版 https://www.bilibili.com/video/BV1qb421n7ih/
 
 you can watch the video on bilibili, only Chinese version https://www.bilibili.com/video/BV1qb421n7ih/
 
